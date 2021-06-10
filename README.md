@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kosi-ndukwe
-- 👀 I’m interested in data collection and internet security. 
+- 👀 I’m interested in data collection, internet security, coding, and content creation. 
 - 🌱 I’m currently learning Python and SQL
 
 <!---
